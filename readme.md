@@ -1,0 +1,1 @@
+Learning about domain-driven design, event sourcing and CQRS; taking inspiration from a variety of sources.
